@@ -115,7 +115,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [CodeIgniter](http://www.codeigniter.com/)  CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
-* [Cakephp](http://cakephp.org/) Cakephp makes building web applications simpler, faster and require less code.
+* [Cakephp](http://cakephp.org/) Cakephp makes building web applications simpler,faster and require less code.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
