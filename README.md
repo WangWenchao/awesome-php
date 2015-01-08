@@ -91,6 +91,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [CodeIgniter](http://www.codeigniter.com/)  CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
+* [Cakephp](http://cakephp.org/) Cakephp makes building web applications simpler,faster and require less code.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
@@ -114,8 +116,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
-* [CodeIgniter](http://www.codeigniter.com/)  CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
-* [Cakephp](http://cakephp.org/) Cakephp makes building web applications simpler,faster and require less code.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
